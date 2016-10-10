@@ -1,0 +1,5 @@
+c:\s\target\debug\amd64\CshOpsTool\PAT\ServerListQueryFormDll.dll
+c:\s\target\debug\amd64\CshOpsTool\PAT\ServerListQueryFormDll.pdb
+C:\s\private\dev\CshOpsTool\PatchTool\ServerListQueryFormDll\objd\amd64\ServerListQueryFormDll.dll
+C:\s\private\dev\CshOpsTool\PatchTool\ServerListQueryFormDll\objd\amd64\ServerListQueryFormDll.pdb
+C:\s\private\dev\CshOpsTool\PatchTool\ServerListQueryFormDll\objd\amd64\ServerListQueryFormDll.csprojResolveAssemblyReference.cache
